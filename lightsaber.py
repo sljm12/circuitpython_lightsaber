@@ -203,9 +203,3 @@ while True:
     previous = current
     time.sleep(0.1)
 '''
-'''
-while True:
-    print("Acceleration (m/s^2): X=%0.3f Y=%0.3f Z=%0.3f"%accel.acceleration)
-    print("Magnetometer (micro-Teslas)): X=%0.3f Y=%0.3f Z=%0.3f"%mag.magnetic)
-    time.sleep(0.1)
-'''
