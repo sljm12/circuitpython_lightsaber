@@ -5,6 +5,7 @@ A CircuitPython Lightsaber implementation using an IMU and MP3 player.
 * Seeed Xiao RP2040
 * LSM303
 * DF Robot MP3 player
+* Speaker
 
 # Circuit Diagram
 ![Circuit Diagram](lightsaber_bb.png)
